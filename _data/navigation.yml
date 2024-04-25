@@ -12,4 +12,4 @@ docs:
   - title: "Study"
     children:
       - title: "Category"
-        url: /categories/mysql/
+        url: /categories/#mysql/
