@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sungyeop Kim"
-description              : "An amazing website."
+description              : "Personal Blog"
 url                      : "https://rouis96.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rouis96/rouis96.github.io"
@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "Sungyeop Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "김성엽의 개발 일지"
   location         : "Daegu"
   email            :
   links:
@@ -236,7 +236,7 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
- jekyll-archives:
+jekyll-archives:
    enabled:
      - categories
      - tags
