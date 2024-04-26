@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
   - title: "Search"
     url: /search/
 
