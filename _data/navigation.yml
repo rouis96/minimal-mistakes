@@ -10,6 +10,6 @@ docs:
   - title: "Study"
     children:
       - title: "MySQL"
-        url: /categories/#mysql/
+        url: /categories/
       - title: "Excel"
-        url: /categories/#excel/
+        url: /excels/
