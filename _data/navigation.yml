@@ -4,11 +4,3 @@ main:
     url: /categories/
   - title: "Search"
     url: /search/
-
-sidebar-category:
-    - title: "Study"
-        children:
-            - title: "SQL"
-              url: "/sql"
-            - title: "Excel"
-              url: "/excel"
