@@ -11,3 +11,5 @@ docs:
     children:
       - title: "MySQL"
         url: /categories/#mysql/
+      - title: "Excel"
+        url: /categories/#excel/
