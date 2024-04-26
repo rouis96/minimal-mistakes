@@ -2,7 +2,7 @@
 ---
 title: "엑셀의 기초부터 심화까지"
 layout: archive
-permalink: /excel/
+permalink: /excel
 ---
 
 
