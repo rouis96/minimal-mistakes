@@ -4,11 +4,9 @@ main:
     url: /search/
     
 docs:
-  - title: Book Study
+  - title: Study
     children:
-      - title: "임베디드 C프로그래밍 최적화"
-        url: /categories/embedded_c_optimization
-  - title: 삽질일기
-    children:
-      - title: "라즈베리파이"
-        url: /categories/raspberry_pi
+      - title: "SQL"
+        url: /categories/sql_study
+      - title: "Excel"
+        url: /categories/excel_study

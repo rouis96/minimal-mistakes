@@ -1,7 +1,7 @@
 ---
-title: "임베디드 C 프로그래밍 최적화"
+title: "SQL 배우기"
 layout: archive
-permalink: categories/embedded_c_optimization
+permalink: categories/sql_study
 author_profile: true
 types: posts
 ---
