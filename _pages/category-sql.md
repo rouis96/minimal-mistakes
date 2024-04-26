@@ -2,7 +2,7 @@
 ---
 title: "MySQL 학습"
 layout: archive
-permalink: /sql/
+permalink: /sql
 ---
 
 
