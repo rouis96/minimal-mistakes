@@ -9,6 +9,6 @@ sidebar-category:
     - title: "Study"
         children:
             - title: "SQL"
-              url: "/sql"
+              url: /sql
             - title: "Excel"
-              url: "/excel"
+              url: /excel
