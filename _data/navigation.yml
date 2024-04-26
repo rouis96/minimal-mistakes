@@ -13,3 +13,11 @@ docs:
         url: /categories/
       - title: "Excel"
         url: /excels/
+
+sidebar-category:
+    - title: "Study"
+        children:
+            - title: "SQL"
+              url: "/sql"
+            - title: "Excel"
+              url: "/excel"
