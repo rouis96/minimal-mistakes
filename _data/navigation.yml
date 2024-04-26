@@ -4,15 +4,6 @@ main:
     url: /categories/
   - title: "Search"
     url: /search/
-    
-    
-docs:
-  - title: "Study"
-    children:
-      - title: "MySQL"
-        url: /categories/
-      - title: "Excel"
-        url: /excels/
 
 sidebar-category:
     - title: "Study"
